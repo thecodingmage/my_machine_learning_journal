@@ -4,10 +4,12 @@ This project implements a simple neural network using TensorFlow and Keras to cl
 
 ## Project Structure
 
+```
 mnist_handwritten_digit_classifier/
-│
-├── README.md # Project documentation
-├── mnist_model.py # Model building and training script
+├── README.md           # Project documentation
+├── mnist_model.py      # Model building and training script
+```
+
 
 
 ## About the Dataset
